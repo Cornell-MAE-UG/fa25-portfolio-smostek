@@ -1,70 +1,60 @@
 ---
 layout: default
-title: <Your Name> - Curriculum Vitae
+title: Sebastian Mostek - Curriculum Vitae
 permalink: /cv/
 ---
 ## Curriculum Vitae
 
-[Download my CV]({{ "/assets/CV.pdf" | relative_url }}) in PDF format.
+[Download my CV]({{ "/assets/SMostek_Resume_Ihtaca.pdf" | relative_url }}) in PDF format.
 
 
-**Email:** [netID@cornell.edu](mailto:netID@cornell.edu) | | | **Phone:** +123 456 7890
+**Email:** [sgm97@cornell.edu](mailto:sgm97@cornell.edu) | | | **Phone:** +1 (610)-703-1829
 
 ---
 
 #### Objective
-Aspiring engineering student with a strong foundation in.... Passionate about ... and eager to apply my knowledge in real-world applications.
+Mechanical Engineering student with an uncommonly strong affinity for pure math and physics.
 
 ---
 
 #### Education
 - **Cornell University**  
   *Bachelor of Science in Mechanical and Aerospace Engineering*  
-  GPA: 3.8/4.0 | Graduation: Month, Year
+  GPA: 3.9/4.0 | Graduation: December 2025
 
-- **[High School Name]**  
+- **Upper Darby High School**  
   *High School Diploma*  
-  Graduation: [Month, Year]
+  Graduation: June 2022
 
 ---
 
 #### Skills
-- **Software:** Autodesk Fusion 360, SolidWorks, ANSYS  
-- **Programming:** Python, MATLAB  
-- **Tools:** 3D Printing, Laser Cutting  
+- **Software:** Autodesk Fusion 360, Microsoft Office Suite, ANSYS  
+- **Programming:** MATLAB, Python, LaTeX  
+- **Tools:** 3D Printing, Basic Machining  
 
 ---
 
 #### Projects
-- **[Project Title]**:  
-  *[Short Description]*  
-  - Key Achievement 1  
-  - Key Achievement 2  
-
-- **[Project Title]**:  
-  *[Short Description]*  
-  - Key Achievement 1  
-  - Key Achievement 2  
+- **Independent Mathematics Research**:  
+  *A reearch projected began in my first semester to enumerate and classify the equilibrium distributions of a set of mutually repulsive points confined to the unit sphere*  
+  - Studied and implemented in code various advanced mathematical subjects including Graph Theory, Group Theory, Numerical Optimization, and Dynamics.  
+  - Wrote over 2500 lines of Matlab code in programming an algorithm to efficiently search for solutions.  
 
 ---
 
 #### Work Experience
-- **[Company Name] - Intern**  
-  [Month, Year] - [Month, Year]  
-  - Responsibility 1  
-  - Responsibility 2  
-
----
-
-#### Achievements & Certifications
-- [Certification Name], [Issuing Organization], [Year]  
-- [Achievement Name], [Competition/Event], [Year]  
+- **Laboratory for Advanced Materials and Manufacturing - Researcher**  
+  [June 2025] - [Present]  
+  - Developed a novel mathematical model of heat transfer mechanics associated with Laser Powder Bed Fusion for the purpose of improving the identification of optimal LPBF process parameters.  
+  - Used Finite Element Analysis and Fast Fourier Transform algorithms to numerically evaluate the model.
+  - Currently preparing a journal article comparing my method to other existing methods.  
 
 ---
 
 #### Extracurricular Activities
-- Member of [Club/Organization Name]  
-- Volunteer for [Event/Organization Name]  
+- Member of Cornell Jazz Ensemble
+- Member of Board Games at Cornell
 
 ---
 

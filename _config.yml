@@ -13,7 +13,7 @@ title_separator          : "-"
 subtitle                 : The physicist who ended up with a MechE degree
 name                     : Sebastian Mostek
 description              : Sebastian Mostek - Projects and CV 
-baseurl                  : "ssh://github.com/Cornell-MAE-UG/fa25-portfolio-smostek"
+baseurl                  : "/fa25-portfolio-smostek"
 
 # Theme and Style
 theme: jekyll-theme-minimal

@@ -1,0 +1,11 @@
+This is a document to remind me how to edit this website
+
+To preview the website by running it locally run `bundle exec jekyll serve` in the parent folder
+
+To push to gitHub run 
+```git add .
+git commit -m "<Commit Edit>"
+git push origin main
+```
+
+

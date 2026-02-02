@@ -3,12 +3,27 @@ layout: default
 title: Sebastian Mostek
 ---
 
-## About Me
+## Welcome
 
 
 ![Profile Picture]({{ "assets/images/Professional_PFP.jpg" | relative_url }}){: class="profile-image"}
 
  
-My name is {{ site.name }}, and I am very soon to be a Cornell Engineering graduate with a degree in Mechanical and Aerospace Engineering. I have a uniquely strong familiarity with both applied and abstract mathematics, which I have found has given me a unique perspective and potential as an engineer. Instead of thinking of engineering models as mere problem-solving tools that spit out equations, I've taken the time to fully understand all of the mathematical machinery underpinning their derivations, which has not only made me much more intuitively aware of the limitations imposed by the assumptions inherent to these models, but also has significantly improved the rate at which I can learn new technical fields. This holistic approach also extends beyond math and engineering and into the humanities, where a study of the imprecise themes history, philosophy, music and literature have recontextualized for me the rigid optimizations of science, ensuring I always keep in mind the people for whom we ultimately design.
+My name is {{ site.name }}, and I have just finished my seventh semester at Cornell University, graduating with a degree in Mechanical Engineering. Ever a generalist, while some fields like renewable energy and additive manufacturing have recieved a bit more of my attention, if I can be said to have a true expertise it is in pure math and physics, which has proven invaluable to my ability to quickly expand my practical knowledge to new fields.
 
-To learn more about what I've accomplished here at Cornell, you can looks at <a href="{{ "/projects/" | relative_url }}">my projects</a> and my <a href="{{ "/cv/" | relative_url }}">CV</a>.
+This site serves to catalogue and present the many projects I've worked on and skills I've learned, as well as being a digital home for <a href="{{ "/cv/" | relative_url }}">my resume</a>. For a pdf of mostly the same portfolio content as this site, click [here]({{ "assets/Technical_Portfolio.pdf" | relative_url }}).
+
+
+### Projects & Coursework
+<div class="gallery-container">
+<div class="project-gallery">
+    {% for project in site.projects %}
+      <div class="gallery-item">
+        <a href="{{ project.url | relative_url }}">
+          <img src="{{ project.image | relative_url }}" alt="{{ project.title }}" />
+          <p>{{ project.title}}</p>
+        </a>
+      </div>
+    {% endfor %}
+</div>
+</div>

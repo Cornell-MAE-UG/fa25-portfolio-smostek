@@ -8,4 +8,4 @@ git commit -m "<Commit Edit>"
 git push origin main
 ```
 
-
+I don't think you need to worry about the PAT anymore, but you can always revive the one you made the first time

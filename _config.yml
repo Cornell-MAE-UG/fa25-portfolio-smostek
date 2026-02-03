@@ -1,11 +1,3 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your entire site, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve`. If you change this file, please restart the server process.
-
-
 # Site Settings
 locale                   : "en-US"
 title                    : Sebastian Mostek
@@ -13,11 +5,11 @@ title_separator          : "-"
 subtitle                 : The physicist who ended up with a MechE degree
 name                     : Sebastian Mostek
 description              : Sebastian Mostek - Projects and CV 
-baseurl                  : "/fa25-portfolio-smostek"
+baseurl                  : "/smostek-portfolio"
 
 # Theme and Style
 theme: jekyll-theme-minimal
-color_scheme: desert # light/default, dark, or aqua
+color_scheme: desert # light/default, dark, desert, or aqua
 
 sass:
   style: compressed
